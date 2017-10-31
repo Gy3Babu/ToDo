@@ -1,0 +1,18 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "10/30/2017 test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "mongoose": "^4.12.5",
+    "morgan": "^1.9.0",
+    "winston": "^2.4.0",
+    "winston-daily-rotate-file": "^1.7.2"
+  }
+}
